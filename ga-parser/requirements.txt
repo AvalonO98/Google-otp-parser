@@ -1,0 +1,12 @@
+# 核心Web框架
+streamlit>=1.30.0
+# Protobuf解析
+protobuf>=4.25.0
+# OTP验证码生成（测试用）
+pyotp>=2.9.0
+# 二维码解析
+pyzbar>=0.1.9
+# 图片处理
+pillow>=10.1.0
+# 二维码生成
+qrcode>=7.4.2
